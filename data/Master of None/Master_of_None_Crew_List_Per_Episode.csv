@@ -1,0 +1,104 @@
+job,department,credit_id,adult,gender,id,known_for_department,name,original_name,popularity,profile_path,episodeId,seasonNumber,episodeNumber
+Director,Directing,5630b99e925141284c00fadd,False,2,930710,Directing,James Ponsoldt,James Ponsoldt,1.138,/iG1JveKARZuK05Oh5czmXXxAbdn.jpg,1132717,1,1
+Writer,Writing,56411c49c3a3685bdf000442,False,2,86626,Acting,Aziz Ansari,Aziz Ansari,2.002,/yUeQHM4ycUXrUgRWgKVYKNmKxfJ.jpg,1132717,1,1
+Writer,Writing,5ff8055e91f0ea003e931e9f,False,2,1020767,Writing,Alan Yang,Alan Yang,0.98,,1132717,1,1
+Executive Producer,Production,5ff85103097c4900419a9c51,False,2,930710,Directing,James Ponsoldt,James Ponsoldt,1.138,/iG1JveKARZuK05Oh5czmXXxAbdn.jpg,1132717,1,1
+Director of Photography,Camera,5ff8514120af77003c15c1d0,False,2,1183644,Camera,Mark Schwartzbard,Mark Schwartzbard,0.828,,1132717,1,1
+Editor,Editing,5ff85537383df2003d3234b8,False,1,10419,Editing,Suzy Elmiger,Suzy Elmiger,0.98,,1132717,1,1
+Writer,Writing,56411c49c3a3685bdf000442,False,2,86626,Acting,Aziz Ansari,Aziz Ansari,2.002,/yUeQHM4ycUXrUgRWgKVYKNmKxfJ.jpg,1132851,1,2
+Writer,Writing,5ff8055e91f0ea003e931e9f,False,2,1020767,Writing,Alan Yang,Alan Yang,0.98,,1132851,1,2
+Director,Directing,5ff80640097c4900419a4d97,False,2,86626,Acting,Aziz Ansari,Aziz Ansari,2.002,/yUeQHM4ycUXrUgRWgKVYKNmKxfJ.jpg,1132851,1,2
+Director of Photography,Camera,5ff8514120af77003c15c1d0,False,2,1183644,Camera,Mark Schwartzbard,Mark Schwartzbard,0.828,,1132851,1,2
+Consulting Producer,Production,5ff8628f7f1d83003ff2a31c,False,0,1237239,Writing,Andrew Weinberg,Andrew Weinberg,0.6,,1132851,1,2
+Director,Directing,5630b99e925141284c00fadd,False,2,930710,Directing,James Ponsoldt,James Ponsoldt,1.138,/iG1JveKARZuK05Oh5czmXXxAbdn.jpg,1132852,1,3
+Teleplay,Writing,5ff80708dd83fa003d6bec19,False,2,86626,Acting,Aziz Ansari,Aziz Ansari,2.002,/yUeQHM4ycUXrUgRWgKVYKNmKxfJ.jpg,1132852,1,3
+Teleplay,Writing,5ff8070fefea7a003f6ca9d1,False,2,1020767,Writing,Alan Yang,Alan Yang,0.98,,1132852,1,3
+Story,Writing,5ff8071b7f1d83003ff25bd3,False,2,1292220,Acting,Harris Wittels,Harris Wittels,0.98,,1132852,1,3
+Director of Photography,Camera,5ff8514120af77003c15c1d0,False,2,1183644,Camera,Mark Schwartzbard,Mark Schwartzbard,0.828,,1132852,1,3
+Director,Directing,56411c5bc3a3685bd9000461,False,2,132857,Acting,Eric Wareheim,Eric Wareheim,1.078,/x9STTsfrnC7SnuHuRczPFbGi6xp.jpg,1132856,1,4
+Writer,Writing,56411c49c3a3685bdf000442,False,2,86626,Acting,Aziz Ansari,Aziz Ansari,2.002,/yUeQHM4ycUXrUgRWgKVYKNmKxfJ.jpg,1132856,1,4
+Writer,Writing,5ff8055e91f0ea003e931e9f,False,2,1020767,Writing,Alan Yang,Alan Yang,0.98,,1132856,1,4
+Director of Photography,Camera,5ff8514120af77003c15c1d0,False,2,1183644,Camera,Mark Schwartzbard,Mark Schwartzbard,0.828,,1132856,1,4
+Director,Directing,56411c5bc3a3685bd9000461,False,2,132857,Acting,Eric Wareheim,Eric Wareheim,1.078,/x9STTsfrnC7SnuHuRczPFbGi6xp.jpg,1132855,1,5
+Writer,Writing,56411c49c3a3685bdf000442,False,2,86626,Acting,Aziz Ansari,Aziz Ansari,2.002,/yUeQHM4ycUXrUgRWgKVYKNmKxfJ.jpg,1132855,1,5
+Writer,Writing,56411c0092514128a9000401,False,2,1052684,Acting,Joe Mande,Joe Mande,1.553,/onIBAhW2omltRUOOK8LcYddWXwt.jpg,1132855,1,5
+Director of Photography,Camera,5ff8514120af77003c15c1d0,False,2,1183644,Camera,Mark Schwartzbard,Mark Schwartzbard,0.828,,1132855,1,5
+Writer,Writing,56411c49c3a3685bdf000442,False,2,86626,Acting,Aziz Ansari,Aziz Ansari,2.002,/yUeQHM4ycUXrUgRWgKVYKNmKxfJ.jpg,1133010,1,6
+Writer,Writing,5ff8055e91f0ea003e931e9f,False,2,1020767,Writing,Alan Yang,Alan Yang,0.98,,1133010,1,6
+Director,Directing,5ff80640097c4900419a4d97,False,2,86626,Acting,Aziz Ansari,Aziz Ansari,2.002,/yUeQHM4ycUXrUgRWgKVYKNmKxfJ.jpg,1133010,1,6
+Director of Photography,Camera,5ff8514120af77003c15c1d0,False,2,1183644,Camera,Mark Schwartzbard,Mark Schwartzbard,0.828,,1133010,1,6
+Director,Directing,5ff80746fdc4fa003fcd31c9,False,1,90492,Directing,Lynn Shelton,Lynn Shelton,1.155,/yDKuEeGPIYdPaYTvsrnIp7ORce8.jpg,1132857,1,7
+Story,Writing,5ff8075cdd83fa003e6bbfb5,False,0,1237235,Writing,Andy Blitz,Andy Blitz,0.982,,1132857,1,7
+Teleplay,Writing,5ff807a291f0ea004092f9a0,False,0,1903351,Production,Sarah Peters,Sarah Peters,0.6,,1132857,1,7
+Teleplay,Writing,5ff807abefea7a003f6caa26,False,1,1256416,Acting,Zoe Jarman,Zoe Jarman,1.235,,1132857,1,7
+Director of Photography,Camera,5ff8514120af77003c15c1d0,False,2,1183644,Camera,Mark Schwartzbard,Mark Schwartzbard,0.828,,1132857,1,7
+Writer,Writing,56411c49c3a3685bdf000442,False,2,86626,Acting,Aziz Ansari,Aziz Ansari,2.002,/yUeQHM4ycUXrUgRWgKVYKNmKxfJ.jpg,1132858,1,8
+Writer,Writing,5ff8055e91f0ea003e931e9f,False,2,1020767,Writing,Alan Yang,Alan Yang,0.98,,1132858,1,8
+Director,Directing,5ff80746fdc4fa003fcd31c9,False,1,90492,Directing,Lynn Shelton,Lynn Shelton,1.155,/yDKuEeGPIYdPaYTvsrnIp7ORce8.jpg,1132858,1,8
+Director of Photography,Camera,5ff8514120af77003c15c1d0,False,2,1183644,Camera,Mark Schwartzbard,Mark Schwartzbard,0.828,,1132858,1,8
+Director,Directing,56411c5bc3a3685bd9000461,False,2,132857,Acting,Eric Wareheim,Eric Wareheim,1.078,/x9STTsfrnC7SnuHuRczPFbGi6xp.jpg,1132854,1,9
+Writer,Writing,56411c49c3a3685bdf000442,False,2,86626,Acting,Aziz Ansari,Aziz Ansari,2.002,/yUeQHM4ycUXrUgRWgKVYKNmKxfJ.jpg,1132854,1,9
+Writer,Writing,5ff8055e91f0ea003e931e9f,False,2,1020767,Writing,Alan Yang,Alan Yang,0.98,,1132854,1,9
+Director of Photography,Camera,5ff8514120af77003c15c1d0,False,2,1183644,Camera,Mark Schwartzbard,Mark Schwartzbard,0.828,,1132854,1,9
+Director,Directing,56411c5bc3a3685bd9000461,False,2,132857,Acting,Eric Wareheim,Eric Wareheim,1.078,/x9STTsfrnC7SnuHuRczPFbGi6xp.jpg,1133042,1,10
+Writer,Writing,56411c49c3a3685bdf000442,False,2,86626,Acting,Aziz Ansari,Aziz Ansari,2.002,/yUeQHM4ycUXrUgRWgKVYKNmKxfJ.jpg,1133042,1,10
+Writer,Writing,5ff8055e91f0ea003e931e9f,False,2,1020767,Writing,Alan Yang,Alan Yang,0.98,,1133042,1,10
+Director of Photography,Camera,5ff8514120af77003c15c1d0,False,2,1183644,Camera,Mark Schwartzbard,Mark Schwartzbard,0.828,,1133042,1,10
+Director,Directing,5ff80640097c4900419a4d97,False,2,86626,Acting,Aziz Ansari,Aziz Ansari,2.002,/yUeQHM4ycUXrUgRWgKVYKNmKxfJ.jpg,1288198,2,1
+Teleplay,Writing,5ff80708dd83fa003d6bec19,False,2,86626,Acting,Aziz Ansari,Aziz Ansari,2.002,/yUeQHM4ycUXrUgRWgKVYKNmKxfJ.jpg,1288198,2,1
+Teleplay,Writing,5ff8070fefea7a003f6ca9d1,False,2,1020767,Writing,Alan Yang,Alan Yang,0.98,,1288198,2,1
+Story,Writing,5ff8075cdd83fa003e6bbfb5,False,0,1237235,Writing,Andy Blitz,Andy Blitz,0.982,,1288198,2,1
+Director of Photography,Camera,5ff8514120af77003c15c1d0,False,2,1183644,Camera,Mark Schwartzbard,Mark Schwartzbard,0.828,,1288198,2,1
+Writer,Writing,56411c49c3a3685bdf000442,False,2,86626,Acting,Aziz Ansari,Aziz Ansari,2.002,/yUeQHM4ycUXrUgRWgKVYKNmKxfJ.jpg,1315463,2,2
+Writer,Writing,5ff8055e91f0ea003e931e9f,False,2,1020767,Writing,Alan Yang,Alan Yang,0.98,,1315463,2,2
+Director,Directing,5ff80640097c4900419a4d97,False,2,86626,Acting,Aziz Ansari,Aziz Ansari,2.002,/yUeQHM4ycUXrUgRWgKVYKNmKxfJ.jpg,1315463,2,2
+Director of Photography,Camera,5ff8514120af77003c15c1d0,False,2,1183644,Camera,Mark Schwartzbard,Mark Schwartzbard,0.828,,1315463,2,2
+Writer,Writing,56411c49c3a3685bdf000442,False,2,86626,Acting,Aziz Ansari,Aziz Ansari,2.002,/yUeQHM4ycUXrUgRWgKVYKNmKxfJ.jpg,1315464,2,3
+Director of Photography,Camera,5ff8514120af77003c15c1d0,False,2,1183644,Camera,Mark Schwartzbard,Mark Schwartzbard,0.828,,1315464,2,3
+Director,Directing,5ff856a1dd83fa003d6c47a5,False,2,1020767,Writing,Alan Yang,Alan Yang,0.98,,1315464,2,3
+Writer,Writing,5ff856f4336e01003e7bc45d,False,0,2928050,Writing,Aniz Adam Ansari,Aniz Adam Ansari,0.6,,1315464,2,3
+Director,Directing,56411c5bc3a3685bd9000461,False,2,132857,Acting,Eric Wareheim,Eric Wareheim,1.078,/x9STTsfrnC7SnuHuRczPFbGi6xp.jpg,1315465,2,4
+Teleplay,Writing,5ff80708dd83fa003d6bec19,False,2,86626,Acting,Aziz Ansari,Aziz Ansari,2.002,/yUeQHM4ycUXrUgRWgKVYKNmKxfJ.jpg,1315465,2,4
+Teleplay,Writing,5ff8070fefea7a003f6ca9d1,False,2,1020767,Writing,Alan Yang,Alan Yang,0.98,,1315465,2,4
+Director of Photography,Camera,5ff8514120af77003c15c1d0,False,2,1183644,Camera,Mark Schwartzbard,Mark Schwartzbard,0.828,,1315465,2,4
+Story,Writing,5ff8572991f0ea0040933360,False,0,1226297,Writing,Sarah Schneider,Sarah Schneider,0.6,,1315465,2,4
+Director,Directing,56411c5bc3a3685bd9000461,False,2,132857,Acting,Eric Wareheim,Eric Wareheim,1.078,/x9STTsfrnC7SnuHuRczPFbGi6xp.jpg,1315466,2,5
+Writer,Writing,56411c49c3a3685bdf000442,False,2,86626,Acting,Aziz Ansari,Aziz Ansari,2.002,/yUeQHM4ycUXrUgRWgKVYKNmKxfJ.jpg,1315466,2,5
+Writer,Writing,5ff8055e91f0ea003e931e9f,False,2,1020767,Writing,Alan Yang,Alan Yang,0.98,,1315466,2,5
+Director of Photography,Camera,5ff8514120af77003c15c1d0,False,2,1183644,Camera,Mark Schwartzbard,Mark Schwartzbard,0.828,,1315466,2,5
+Teleplay,Writing,5ff80708dd83fa003d6bec19,False,2,86626,Acting,Aziz Ansari,Aziz Ansari,2.002,/yUeQHM4ycUXrUgRWgKVYKNmKxfJ.jpg,1315467,2,6
+Teleplay,Writing,5ff8070fefea7a003f6ca9d1,False,2,1020767,Writing,Alan Yang,Alan Yang,0.98,,1315467,2,6
+Director of Photography,Camera,5ff8514120af77003c15c1d0,False,2,1183644,Camera,Mark Schwartzbard,Mark Schwartzbard,0.828,,1315467,2,6
+Director,Directing,5ff856a1dd83fa003d6c47a5,False,2,1020767,Writing,Alan Yang,Alan Yang,0.98,,1315467,2,6
+Story,Writing,5ff857667f1d830040f2fa4f,False,0,1893777,Writing,Cord Jefferson,Cord Jefferson,0.6,,1315467,2,6
+Director,Directing,5a1fa104925141032908aee1,False,1,1609935,Directing,Melina Matsoukas,Melina Matsoukas,0.6,/3LSNxobNfUBmVbtwNx8Z5YV5wRN.jpg,1315468,2,7
+Teleplay,Writing,5ff80708dd83fa003d6bec19,False,2,86626,Acting,Aziz Ansari,Aziz Ansari,2.002,/yUeQHM4ycUXrUgRWgKVYKNmKxfJ.jpg,1315468,2,7
+Teleplay,Writing,5ff8070fefea7a003f6ca9d1,False,2,1020767,Writing,Alan Yang,Alan Yang,0.98,,1315468,2,7
+Director of Photography,Camera,5ff8514120af77003c15c1d0,False,2,1183644,Camera,Mark Schwartzbard,Mark Schwartzbard,0.828,,1315468,2,7
+Story,Writing,5ff8577d91f0ea003f93a5e6,False,0,2431449,Writing,Lakshmi Sundaram,Lakshmi Sundaram,0.6,,1315468,2,7
+Writer,Writing,56411c49c3a3685bdf000442,False,2,86626,Acting,Aziz Ansari,Aziz Ansari,2.002,/yUeQHM4ycUXrUgRWgKVYKNmKxfJ.jpg,1315469,2,8
+Director,Directing,5a1fa104925141032908aee1,False,1,1609935,Directing,Melina Matsoukas,Melina Matsoukas,0.6,/3LSNxobNfUBmVbtwNx8Z5YV5wRN.jpg,1315469,2,8
+Writer,Writing,5a9e02c20e0a2671f0008b13,False,1,1059572,Acting,Lena Waithe,Lena Waithe,1.994,/lVcsbWQp1smLYTaz7ilAQ7ny5si.jpg,1315469,2,8
+Director of Photography,Camera,5ff8514120af77003c15c1d0,False,2,1183644,Camera,Mark Schwartzbard,Mark Schwartzbard,0.828,,1315469,2,8
+Writer,Writing,56411c49c3a3685bdf000442,False,2,86626,Acting,Aziz Ansari,Aziz Ansari,2.002,/yUeQHM4ycUXrUgRWgKVYKNmKxfJ.jpg,1315470,2,9
+Director,Directing,5ff80640097c4900419a4d97,False,2,86626,Acting,Aziz Ansari,Aziz Ansari,2.002,/yUeQHM4ycUXrUgRWgKVYKNmKxfJ.jpg,1315470,2,9
+Director of Photography,Camera,5ff8514120af77003c15c1d0,False,2,1183644,Camera,Mark Schwartzbard,Mark Schwartzbard,0.828,,1315470,2,9
+Writer,Writing,56411c49c3a3685bdf000442,False,2,86626,Acting,Aziz Ansari,Aziz Ansari,2.002,/yUeQHM4ycUXrUgRWgKVYKNmKxfJ.jpg,1315471,2,10
+Writer,Writing,5ff8055e91f0ea003e931e9f,False,2,1020767,Writing,Alan Yang,Alan Yang,0.98,,1315471,2,10
+Director,Directing,5ff80640097c4900419a4d97,False,2,86626,Acting,Aziz Ansari,Aziz Ansari,2.002,/yUeQHM4ycUXrUgRWgKVYKNmKxfJ.jpg,1315471,2,10
+Director of Photography,Camera,5ff8514120af77003c15c1d0,False,2,1183644,Camera,Mark Schwartzbard,Mark Schwartzbard,0.828,,1315471,2,10
+Writer,Writing,56411c49c3a3685bdf000442,False,2,86626,Acting,Aziz Ansari,Aziz Ansari,2.002,/yUeQHM4ycUXrUgRWgKVYKNmKxfJ.jpg,2907166,3,1
+Writer,Writing,5a9e02c20e0a2671f0008b13,False,1,1059572,Acting,Lena Waithe,Lena Waithe,1.994,/lVcsbWQp1smLYTaz7ilAQ7ny5si.jpg,2907166,3,1
+Director,Directing,5ff80640097c4900419a4d97,False,2,86626,Acting,Aziz Ansari,Aziz Ansari,2.002,/yUeQHM4ycUXrUgRWgKVYKNmKxfJ.jpg,2907166,3,1
+Writer,Writing,56411c49c3a3685bdf000442,False,2,86626,Acting,Aziz Ansari,Aziz Ansari,2.002,/yUeQHM4ycUXrUgRWgKVYKNmKxfJ.jpg,2907175,3,2
+Writer,Writing,5a9e02c20e0a2671f0008b13,False,1,1059572,Acting,Lena Waithe,Lena Waithe,1.994,/lVcsbWQp1smLYTaz7ilAQ7ny5si.jpg,2907175,3,2
+Director,Directing,5ff80640097c4900419a4d97,False,2,86626,Acting,Aziz Ansari,Aziz Ansari,2.002,/yUeQHM4ycUXrUgRWgKVYKNmKxfJ.jpg,2907175,3,2
+Writer,Writing,56411c49c3a3685bdf000442,False,2,86626,Acting,Aziz Ansari,Aziz Ansari,2.002,/yUeQHM4ycUXrUgRWgKVYKNmKxfJ.jpg,2907176,3,3
+Writer,Writing,5a9e02c20e0a2671f0008b13,False,1,1059572,Acting,Lena Waithe,Lena Waithe,1.994,/lVcsbWQp1smLYTaz7ilAQ7ny5si.jpg,2907176,3,3
+Director,Directing,5ff80640097c4900419a4d97,False,2,86626,Acting,Aziz Ansari,Aziz Ansari,2.002,/yUeQHM4ycUXrUgRWgKVYKNmKxfJ.jpg,2907176,3,3
+Writer,Writing,56411c49c3a3685bdf000442,False,2,86626,Acting,Aziz Ansari,Aziz Ansari,2.002,/yUeQHM4ycUXrUgRWgKVYKNmKxfJ.jpg,2907177,3,4
+Writer,Writing,5a9e02c20e0a2671f0008b13,False,1,1059572,Acting,Lena Waithe,Lena Waithe,1.994,/lVcsbWQp1smLYTaz7ilAQ7ny5si.jpg,2907177,3,4
+Director,Directing,5ff80640097c4900419a4d97,False,2,86626,Acting,Aziz Ansari,Aziz Ansari,2.002,/yUeQHM4ycUXrUgRWgKVYKNmKxfJ.jpg,2907177,3,4
+Writer,Writing,56411c49c3a3685bdf000442,False,2,86626,Acting,Aziz Ansari,Aziz Ansari,2.002,/yUeQHM4ycUXrUgRWgKVYKNmKxfJ.jpg,2907179,3,5
+Writer,Writing,5a9e02c20e0a2671f0008b13,False,1,1059572,Acting,Lena Waithe,Lena Waithe,1.994,/lVcsbWQp1smLYTaz7ilAQ7ny5si.jpg,2907179,3,5
+Director,Directing,5ff80640097c4900419a4d97,False,2,86626,Acting,Aziz Ansari,Aziz Ansari,2.002,/yUeQHM4ycUXrUgRWgKVYKNmKxfJ.jpg,2907179,3,5
